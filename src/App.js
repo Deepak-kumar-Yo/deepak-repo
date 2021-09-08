@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './resources/styles.css';
+import './Foodie.css';
 import { Element } from 'react-scroll';
 
 
